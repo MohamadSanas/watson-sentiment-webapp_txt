@@ -15,9 +15,3 @@ Built with Python and Flask, this app analyzes text input to detect sentiment an
 
 ---
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/<your-username>/watson-sentiment-webapp.git
-cd watson-sentiment-webapp
