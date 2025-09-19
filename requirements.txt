@@ -1,0 +1,2 @@
+flask==2.3.3
+ibm-watson==6.1.0
